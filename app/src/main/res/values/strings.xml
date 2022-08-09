@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DTS-project1</string>
+    <string name="bt_OK">OK</string>
+    <string name="menu1">menu1</string>
+    <string name="menu2">menu2</string>
+    <string name="menu3">menu3</string>
+    <string name="menu_1">MENU 1</string>
+    <string name="menu_2">Menu 2</string>
+</resources>
